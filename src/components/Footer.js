@@ -28,7 +28,7 @@ const Footer = () => {
                     </div>
                     <div className="email">
                         <h4>  <FaGithub size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-                        <a href={"www.github.com/dhruza88"}> www.github.com/dhruza88</a></h4>
+                        <a href={"https://www.github.com/dhruza88"}>www.github.com/dhruza88</a></h4>
 
                     </div>
                 </div>
@@ -38,18 +38,18 @@ const Footer = () => {
                 </div>
                 
                 <div className="social">
-                    <FaFacebook
+                <a href={"https://www.facebook.com/david.hruza.90"}><FaFacebook
                         size={30}
                         style={{ color: "#fff", marginRight: "1rem" }}
-                    />
-                    <FaTwitter
+                    /></a>
+                    <a href={"https://twitter.com/daruz88"}><FaTwitter
                         size={30}
                         style={{ color: "#fff", marginRight: "1rem" }}
-                    />
-                    <FaLinkedin
+                    /></a>
+                   <a href={"https://www.linkedin.com/in/david-hruza-860699159/"}> <FaLinkedin
                         size={30}
                         style={{ color: "#fff", marginRight: "1rem" }}
-                    />
+                    /></a>
                 </div>
             </div>
         </div>
