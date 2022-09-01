@@ -1,5 +1,16 @@
 .res{
+    padding-top:150px;
     text-align: center;
     justify-content: center;
+    align-items: center;
     margin:auto 0;
+}
+
+.res-heading{
+    border: 1px solid orange;
+    border-radius: 20px;
+    width: 15%;
+    align-items: center;
+    margin:auto 0;
+    margin-left: 40%;
 }
