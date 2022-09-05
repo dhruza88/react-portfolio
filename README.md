@@ -44,3 +44,14 @@ open it up and go through the app
 [https://www.github.com/dhruza88](https://www.github.com/dhruza88) <br />
 davidhruza@gmail.com
 
+Deployed Link: 
+
+https://dh-react-portfolio.herokuapp.com/
+
+
+Screenshot:
+
+![react-portfolio](https://user-images.githubusercontent.com/106774335/188356970-ae555578-9a2b-4028-a712-6fa123c8c4a8.jpg)
+
+
+
